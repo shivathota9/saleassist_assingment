@@ -1,10 +1,10 @@
 .slider-container {
-  width: Hug (1,303px)px;
-  height: Hug (130px)px;
-  top: 137px;
-  left: 32px;
+  /* width: Hug (1,303px)px;
+  height: Hug (130px)px; */
+  /* top: 137px;
+  left: 32px; */
   gap: 56px;
-  opacity: 0px;
+  /* opacity: 0px; */
 }
 
 
@@ -25,8 +25,8 @@
   /* justify-content: space-between; */
   /* align-items: center; */
   width: 200x;
-  gap: 0px;
-  opacity: 0px;
+  /* gap: 0px;
+  opacity: 0px; */
 }
 
 
@@ -76,8 +76,8 @@
 .center-icon {
   margin: -1 10px;
   color: #E5DFD9;
-  gap: 0px;
-  opacity: 0px;
+  /* gap: 0px;
+  opacity: 0px; */
   font-size: 28px;
 }
 

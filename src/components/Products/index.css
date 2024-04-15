@@ -1,10 +1,10 @@
 .Product-container {
-    width: Hug (1,216.6px)px;
-    height: Hug (483.43px)px;
-    top: 359px;
-    left: 32px;
+    /* width: Hug (1,216.6px)px;
+    height: Hug (483.43px)px; */
+    /* top: 359px;
+    left: 32px; */
     gap: 32px;
-    opacity: 0px;
+    /* opacity: 0px; */
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -15,16 +15,17 @@
 .Product-card {
     width: 280.15px;
     height: 483.43px;
-    gap: 0px;
-    opacity: 0px;
+    /* gap: 0px; */
+    /* opacity: 0px; */
 }
+
 
 .card-background {
     width: 280.15px;
     height: 373.26px;
-    gap: 0px;
+    /* gap: 0px; */
     border-radius: 6.59px 6.59px 0px 0px;
-    opacity: 0px;
+    /* opacity: 0px; */
     background-size: cover;
     display: flex;
     justify-content: flex-end;
@@ -33,10 +34,10 @@
 .Card-details {
     width: 280.15px;
     height: 122.99px;
-    top: 360.44px;
-    gap: 0px;
+    /* top: 360.44px; */
+    /* gap: 0px; */
     border-radius: 0px 0px 17.08px 17.08px;
-    opacity: 0px;
+    /* opacity: 0px; */
     background-color: #141414;
     padding: 1px;
 }
@@ -64,10 +65,10 @@
 .price-details {
     width: 168.36px;
     height: 23.92px;
-    top: 435.6px;
-    left: 10.25px;
-    gap: 0px;
-    opacity: 0px;
+    /* top: 435.6px;
+    left: 10.25px; */
+    /* gap: 0px;
+    opacity: 0px; */
     color: #E5DFD9;
     /* padding: 8px; */
     display: flex;

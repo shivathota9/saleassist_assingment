@@ -19,8 +19,7 @@ const Productslider = () => {
             .catch(function (error) {
                 console.error('Error fetching data:', error);
             });
-    }, []); // Empty dependency array to ensure the effect runs only once
-
+    }, []); 
     const settings = {
         dots: false,
         slidesToScroll: 1,
